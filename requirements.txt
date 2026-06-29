@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly
+groq
+python-dotenv
+sqlalchemy
+httpx
+certifi

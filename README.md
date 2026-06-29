@@ -1,4 +1,4 @@
-# Text-to-SQL: People Analytics & Intelligence
+# AI People Analytics & Intelligence
 
 A natural language analytics tool for people data. Ask any workforce question in plain English — get an instant answer, a dynamic chart, and the SQL query behind it.
 
